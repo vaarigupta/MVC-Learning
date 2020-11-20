@@ -1,0 +1,9 @@
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\obj\Debug\Model.xml
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\obj\Debug\refactor.xml
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\obj\Debug\postdeploy.sql
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\obj\Debug\predeploy.sql
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\vaarigupta\source\repos\MVC Learning\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
