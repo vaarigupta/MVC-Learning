@@ -25,7 +25,12 @@ namespace View_Flow.Controllers
                 designation = "Software Developer"
             };
         }
-      
+        public ActionResult About()
+        {
+            return View();
+        }
+        
+        
         
     }
 }

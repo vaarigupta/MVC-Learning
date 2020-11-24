@@ -26,5 +26,15 @@
 
         </table>
     </div>
+    @{
+        int a = 5;
+        int b = 4;
+        int c = a+b;
+        List<string> lis = new List<string>() { "Apple", "Mango", "Banana" };
+    }
+    <p>Value of c - @c  </p>
+    <p> @lis[1]</p>
+    <p> @Html.ActionLink("Click Me","About")</p>
+    
 </body>
 </html>
