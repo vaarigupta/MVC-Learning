@@ -29,8 +29,12 @@ namespace View_Flow.Controllers
         {
             return View();
         }
-        
-        
-        
+
+        public ActionResult Contact(string name)
+        {
+            return View();
+        }
+
+
     }
 }

@@ -34,7 +34,14 @@
     }
     <p>Value of c - @c  </p>
     <p> @lis[1]</p>
-    <p> @Html.ActionLink("Click Me","About")</p>
-    
+    <p> @Html.ActionLink("About","About")</p>
+    <p> @Html.ActionLink("Contact", "Contact", new { name = "Vaari" })</p>
+    <p> Name : @Html.TextBox("Name", null, new { value= "Name"})</p>
+    @for(int i=1;i<5;i++)
+    {
+        <p> @i - @Html.CheckBox("Technology")</p>
+    }
+
+
 </body>
 </html>
